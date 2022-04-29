@@ -1,10 +1,10 @@
-# 100 Devs - 
+# 100 Devs
 
 ---
 
 ## Class 1
 
-### LEEEETTTTTSSSSSS GOOOOOOOOOO!!!!!
+### LEEEETTTTTSSSSSS GOOOOOOOOOO
 
 [![100 Dev - Class 001](https://res.cloudinary.com/marcomontalbano/image/upload/v1651243223/video_to_markdown/images/youtube--o3IIobN4xR0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=o3IIobN4xR0& "100 Dev - Class 001")
 
@@ -56,7 +56,6 @@ Submit image of completion of Coursera - Learn How To Learn
 
 - Read - [Learn CSS Layout](https://learnlayout.com/)
 - Finish - BBC, Khan Academy, Tech Crunch
-
 
 ## Class 4
 
