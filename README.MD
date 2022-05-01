@@ -724,15 +724,15 @@ Motivation
 
 <details><summary>Videos</summary>
 
-[Hand & Wrist Exercises](https://youtu.be/EiRC80FJbHU)
-[Full Body Stretch](https://youtu.be/SsT_go-oCcQ)
-[Exercises That Changed My Life](https://youtu.be/LT_dFRnmdGs)
-[Screen Readers in Action](https://youtu.be/TiP7aantnvE)
-[Additional Screen Readers in Action](https://youtu.be/UzffnbBex6c)
-[MewTru's Networking Video](https://youtu.be/_CIJ_44IxRg)
-[Many Tamagotchis Were Harmed in the Making of this Presentation](https://youtu.be/c4PkcZScBV8)
-[Cool Breakdown of some low level code and how a Game Boy actually works](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
-[Someone really goood at reverse engineering(Scanlime)](https://www.youtube.com/c/scanlime/videos)
+- [Hand & Wrist Exercises](https://youtu.be/EiRC80FJbHU)
+- [Full Body Stretch](https://youtu.be/SsT_go-oCcQ)
+- [Exercises That Changed My Life](https://youtu.be/LT_dFRnmdGs)
+- [Screen Readers in Action](https://youtu.be/TiP7aantnvE)
+- [Additional Screen Readers in Action](https://youtu.be/UzffnbBex6c)
+- [MewTru's Networking Video](https://youtu.be/_CIJ_44IxRg)
+- [Many Tamagotchis Were Harmed in the Making of this Presentation](https://youtu.be/c4PkcZScBV8)
+- [Cool Breakdown of some low level code and how a Game Boy actually works](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
+- [Someone really goood at reverse engineering(Scanlime)](https://www.youtube.com/c/scanlime/videos)
 
 </details>
 
