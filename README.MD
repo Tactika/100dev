@@ -6,11 +6,9 @@
 
 [![100 Dev - Class 001](https://img.youtube.com/vi/o3IIobN4xR0/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3IIobN4xR0 "100 Dev - Class 001")
 
-[Class 1](https://www.youtube.com/watch?v=o3IIobN4xR0)
-
-[Class 1 Materials](https://cdn.discordapp.com/attachments/738891289071714388/930589829421473862/class01-materials.zip)
-[Class 1 Slides](https://slides.com/leonnoel/100devs2-html-the-basics)
-[Motivation](https://www.poetryfoundation.org/poems/51642/invictus)
+- [Class 1 Materials](https://cdn.discordapp.com/attachments/738891289071714388/930589829421473862/class01-materials.zip)
+- [Class 1 Slides](https://slides.com/leonnoel/100devs2-html-the-basics)
+- [Motivation](https://www.poetryfoundation.org/poems/51642/invictus)
 
 ### Class Homework
 
@@ -26,9 +24,9 @@
 
 [![100 Dev - Class 002](https://img.youtube.com/vi/eCRbEILXXmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=eCRbEILXXmE "100 Dev - Class 002")
 
-[Class 2 Materials](https://cdn.discordapp.com/attachments/738891289071714388/931314672806797332/class02-materials.zip)
-[Class 2 Slides](https://slides.com/leonnoel/100devs2-html-more-basics)
-[Motivation](https://allpoetry.com/Desiderata---Words-for-Life)
+- [Class 2 Materials](https://cdn.discordapp.com/attachments/738891289071714388/931314672806797332/class02-materials.zip)
+- [Class 2 Slides](https://slides.com/leonnoel/100devs2-html-more-basics)
+- [Motivation](https://allpoetry.com/Desiderata---Words-for-Life)
 
 ### Class 2 Homework
 
@@ -44,9 +42,9 @@
 
 [![100 Dev - Class 003](https://img.youtube.com/vi/rdWM6kUImjE/maxresdefault.jpg)](https://www.youtube.com/watch?v=rdWM6kUImjE "100 Dev - Class 003")
 
-[Class 3 Materials](https://cdn.discordapp.com/attachments/738891289071714388/933126749766697030/class-03-materials.zip)
-[Class 3 Slides](https://slides.com/leonnoel/100devs2-html-even-more-basics)
-[Motivation](https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest)
+- [Class 3 Materials](https://cdn.discordapp.com/attachments/738891289071714388/933126749766697030/class-03-materials.zip)
+- [Class 3 Slides](https://slides.com/leonnoel/100devs2-html-even-more-basics)
+- [Motivation](https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest)
 
 ### Homework Due - Class 3
 
@@ -68,9 +66,9 @@ Submit image of completion of Coursera - Learn How To Learn
 
 [![100 Dev - Class 004](https://img.youtube.com/vi/Q1Obtn29twk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q1Obtn29twk "100 Dev - Class 004")
 
-[Class 4 Materials](https://cdn.discordapp.com/attachments/738891289071714388/933851316646719569/class04-materials.zip)
-[Class 4 Slides](https://slides.com/leonnoel/100devs2-css-the-basics/)
-[Motivation](https://youtu.be/6vuetQSwFW8)
+- [Class 4 Materials](https://cdn.discordapp.com/attachments/738891289071714388/933851316646719569/class04-materials.zip)
+- [Class 4 Slides](https://slides.com/leonnoel/100devs2-css-the-basics/)
+- [Motivation](https://youtu.be/6vuetQSwFW8)
 
 ### Homework Due - Class 4
 
@@ -94,9 +92,9 @@ Submit BBC HTML
 
 [![100 Dev - Class 005](https://img.youtube.com/vi/E6Z8cWU_fjI/maxresdefault.jpg)](https://www.youtube.com/watch?v=E6Z8cWU_fjI)
 
-[Class Materials](https://cdn.discordapp.com/attachments/738891289071714388/935663546493198416/class05-materials.zip)
-[Class Slides](https://slides.com/leonnoel/100devs2-css-more-basics)
-[Motivation](https://youtu.be/3sK3wJAxGfs)
+- [Class Materials](https://cdn.discordapp.com/attachments/738891289071714388/935663546493198416/class05-materials.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs2-css-more-basics)
+- [Motivation](https://youtu.be/3sK3wJAxGfs)
 
 ### Homework Due - Class 5
 
@@ -117,10 +115,10 @@ Place your Khan Academy & Tech Crunch HTML in separate glitch.com
 
 [![100 Dev - Class 006](https://img.youtube.com/vi/L55ax0blZY0/maxresdefault.jpg)](https://www.youtube.com/watch?v=L55ax0blZY0 "100 Dev - Class 006")
 
-[Class 6 Materials](https://cdn.discordapp.com/attachments/738891289071714388/936388842171281468/class06-materials.zip)
-[Class 6 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/936454296910843944/class06-materials-solutions.zip)
-[Class Slides](https://slides.com/leonnoel/100devs2-review-and-responsive)
-[Motivation](https://youtu.be/7Oxz060iedY)
+- [Class 6 Materials](https://cdn.discordapp.com/attachments/738891289071714388/936388842171281468/class06-materials.zip)
+- [Class 6 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/936454296910843944/class06-materials-solutions.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs2-review-and-responsive)
+- [Motivation](https://youtu.be/7Oxz060iedY)
 
 ### Class 6 - Homework Due
 
@@ -143,9 +141,9 @@ Place your Three Layouts and Simple Site Lab in separate [CodePen](http://www.co
 
 [![100 Dev - Class 007](https://img.youtube.com/vi/k8r3B0JGMt4/maxresdefault.jpg)](https://www.youtube.com/watch?v=k8r3B0JGMt4 "100 Dev - Class 007")
 
-[Class 7 Materials](https://cdn.discordapp.com/attachments/738891289071714388/938199963953942578/class07-materials.zip)
-[Class 7 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/938271840936267786/class07-solutions.zip)
-[Class Slides](https://slides.com/leonnoel/100devs2-css-responsive-basics)
+- [Class 7 Materials](https://cdn.discordapp.com/attachments/738891289071714388/938199963953942578/class07-materials.zip)
+- [Class 7 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/938271840936267786/class07-solutions.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs2-css-responsive-basics)
 
 ### Homework Due
 
@@ -165,9 +163,9 @@ Place your Three Layouts and Simple Site Lab in separate [CodePen](http://www.co
 
 [![100 Dev - Class 008](https://img.youtube.com/vi/PWVRSXQxsXc/maxresdefault.jpg)](https://www.youtube.com/watch?v=PWVRSXQxsXc "100 Dev - Class 008")
 
-[Class 8 Materials](https://cdn.discordapp.com/attachments/738891289071714388/938924961819676742/class08-materials.zip)
-[Class 8 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/938990161704919111/class08-solutions.zip)
-[Class 8 Slides](https://slides.com/leonnoel/100devs2-css-responsive-review)
+- [Class 8 Materials](https://cdn.discordapp.com/attachments/738891289071714388/938924961819676742/class08-materials.zip)
+- [Class 8 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/938990161704919111/class08-solutions.zip)
+- [Class 8 Slides](https://slides.com/leonnoel/100devs2-css-responsive-review)
 
 ### Homework Due - Class 8
 
@@ -189,8 +187,8 @@ Place your 15 minutes of pain responsive in a [CodePen](https://codepen.io) and 
 
 [![100 Dev - Class 009](https://img.youtube.com/vi/OaglXfjsBaE/maxresdefault.jpg)](https://www.youtube.com/watch?v=OaglXfjsBaE "100 Dev - Class 009")
 
-Class Materials - No Materials this Week
-[Class 9 Slides](https://slides.com/leonnoel/100devs2-networking-night)
+- Class Materials - No Materials this Week
+- [Class 9 Slides](https://slides.com/leonnoel/100devs2-networking-night)
 
 ### Homework Due - Class 9
 
@@ -208,8 +206,8 @@ Class Materials - No Materials this Week
 
 [![100 Dev - Class 010](https://img.youtube.com/vi/WftjV2L7oyk/maxresdefault.jpg)](https://www.youtube.com/watch?v=WftjV2L7oyk "100 Dev - Class 010")
 
-[Class Materials](https://cdn.discordapp.com/attachments/738891289071714388/941461787319087124/class10-materials.zip)
-[Class Slides](https://slides.com/leonnoel/100devs-css-review-homework)
+- [Class Materials](https://cdn.discordapp.com/attachments/738891289071714388/941461787319087124/class10-materials.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs-css-review-homework)
 
 ### Homework Due - Class 10
 
@@ -228,9 +226,9 @@ Class Materials - No Materials this Week
 
 [![100 Dev - Class 011](https://img.youtube.com/vi/qEj0pXGVwjY/maxresdefault.jpg)](https://www.youtube.com/watch?v=qEj0pXGVwjY "100 Dev - Class 011")
 
-[Class 11 Materials](https://cdn.discordapp.com/attachments/738891289071714388/943273619402948648/class11-materials.zip)
-[Class 11 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/943342680237297694/class11-solutions.zip)
-[Class 11 Slides](https://slides.com/leonnoel/100devs2-css-review-flexbox)
+- [Class 11 Materials](https://cdn.discordapp.com/attachments/738891289071714388/943273619402948648/class11-materials.zip)
+- [Class 11 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/943342680237297694/class11-solutions.zip)
+- [Class 11 Slides](https://slides.com/leonnoel/100devs2-css-review-flexbox)
 
 ### Homework Due
 
@@ -254,10 +252,10 @@ Class Materials - No Materials this Week
 
 [![100 Dev - Class 012](https://img.youtube.com/vi/_A20kVsaqIk/maxresdefault.jpg)](https://www.youtube.com/watch?v=_A20kVsaqIk "100 Dev - Class 012")
 
-[Class 12 Materials](https://cdn.discordapp.com/attachments/738891289071714388/943998243216429106/class12-materials.zip)
-[Class 12 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/944064618005938176/class12-solutions.zip)
-[Class Slides](https://slides.com/leonnoel/100devs2-javascript-basics)
-[Motivation](https://youtu.be/01CL029k7pU)
+- [Class 12 Materials](https://cdn.discordapp.com/attachments/738891289071714388/943998243216429106/class12-materials.zip)
+- [Class 12 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/944064618005938176/class12-solutions.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs2-javascript-basics)
+- [Motivation](https://youtu.be/01CL029k7pU)
 
 ### Homework Due - Class 12
 
@@ -281,10 +279,10 @@ Place your layouts in a [CodePen](https://codepen.io) and submit the URLs here:
 
 [![100 Dev - Class 013](https://img.youtube.com/vi/pS6ykGL-fRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=pS6ykGL-fRE "100 Dev - Class 013")
 
-[Class 13 Materials](https://cdn.discordapp.com/attachments/738891289071714388/945810363998421032/class13-materials.zip)
-[Class 13 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/945877319363465216/class13-solutions.zip)
-[Class 13 Slides](https://slides.com/leonnoel/100devs2-javascript-more-basics)
-[Motivation](https://youtu.be/dV9worye5g0)
+- [Class 13 Materials](https://cdn.discordapp.com/attachments/738891289071714388/945810363998421032/class13-materials.zip)
+- [Class 13 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/945877319363465216/class13-solutions.zip)
+- [Class 13 Slides](https://slides.com/leonnoel/100devs2-javascript-more-basics)
+- [Motivation](https://youtu.be/dV9worye5g0)
 
 ### Homework Due - Class 13
 
@@ -308,10 +306,10 @@ Play with any of the JS and make changes? Place your javascript changes in a [Co
 
 [![100 Dev - Class 014](https://img.youtube.com/vi/cBWUvTZPeKw/maxresdefault.jpg)](https://www.youtube.com/watch?v=cBWUvTZPeKw "100 Dev - Class 014")
 
-[Class 14 Materials](https://cdn.discordapp.com/attachments/738891289071714388/946534798166482955/class14-materials.zip)
-[Class 14 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/946606373502869504/class14-solutions.zip)
-[Class 14 Slides](https://slides.com/leonnoel/100devs2-javascript-more-basics-again)
-[Motivation](http://poemsspeak.blogspot.com/2016/12/poetry-speaks.html)
+- [Class 14 Materials](https://cdn.discordapp.com/attachments/738891289071714388/946534798166482955/class14-materials.zip)
+- [Class 14 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/946606373502869504/class14-solutions.zip)
+- [Class 14 Slides](https://slides.com/leonnoel/100devs2-javascript-more-basics-again)
+- [Motivation](http://poemsspeak.blogspot.com/2016/12/poetry-speaks.html)
 
 ### Homework Due - Class 14
 
@@ -331,9 +329,9 @@ Comment your javascript, type it all out without looking, peek if you have to. R
 
 [![100 Dev - Class 015](https://img.youtube.com/vi/68Li7ukgDKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=68Li7ukgDKg "100 Dev - Class 015")
 
-[Class 15 Materials](https://cdn.discordapp.com/attachments/738891289071714388/948346759212597318/class15-materials.zip)
-[Class 15 Slides](https://slides.com/leonnoel/100devs2-intro-to-freelancing)
-[Motivation](https://youtu.be/jVkLVRt6c1U)
+- [Class 15 Materials](https://cdn.discordapp.com/attachments/738891289071714388/948346759212597318/class15-materials.zip)
+- [Class 15 Slides](https://slides.com/leonnoel/100devs2-intro-to-freelancing)
+- [Motivation](https://youtu.be/jVkLVRt6c1U)
 
 ### Homework Due - Class 15
 
@@ -355,21 +353,27 @@ Place your JavaScript.info Tasks in a [CodePen](https://codepen.io) or screensho
 
 [![100 Dev - Class 016](https://img.youtube.com/vi/av6iPI_zJTU/maxresdefault.jpg)](https://www.youtube.com/watch?v=av6iPI_zJTU "100 Dev - Class 016")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-js-review-loops)
-Motivation
+- [Class 16 Materials](https://cdn.discordapp.com/attachments/738891289071714388/949071598793682964/class16-materials.zip)
+- [Class 16 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/949142934756945990/class16-solutions.zip)
+- [Class 16 Slides](https://slides.com/leonnoel/100devs2-js-review-loops)
+- [Motivation](https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle)
 
-### Homework Due
+### Homework Due - Class 16
 
-- First
-- Second
-- Third
+Play with any of the javascript and make changes? Place your javascript changes in a [CodePen](https://codepen.io) and submit the urls here:
 
-### Class Homework
+- [Submit Form Here](https://forms.gle/q9qvPkrH5jKgEfxBA)
 
-- First
-- Second
-- Third
+### Class 16 Homework
+
+- Work on previous weeks homework.
+- Read: [Poem](https://www.poetryfoundation.org/poems/51642/invictus)
+- Read: [3,2,1... Code! through Write Functions](https://github.com/bpesquet/thejsway)
+- Read: [Eloquent JavaScript - Chapters 1 thru 3](http://eloquentjavascript.net/3rd_edition/)
+- Do: [CodeCademy - Intro to JavaScript 1 thru 6](https://www.codecademy.com/learn/introduction-to-javascript)
+- Watch: [Traversy Media - Git & GitHub Crash Course](https://youtu.be/SWYqp7iY_Tc)
+- Extra Reading: [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+- Don't Do: Play yo self - start early even though you have more than a week because this is a lot and very important.
 
 </details>
 
@@ -377,23 +381,18 @@ Motivation
 
 ## Networking Night - Continued
 
-[![100 Dev - Class 027](https://img.youtube.com/vi/b5rjEW-_6po/maxresdefault.jpg)](https://www.youtube.com/watch?v=b5rjEW-_6po "100 Dev - Class 027")
+[![100 Dev - Class 017](https://img.youtube.com/vi/b5rjEW-_6po/maxresdefault.jpg)](https://www.youtube.com/watch?v=b5rjEW-_6po "100 Dev - Class 017")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs-networking-night-cohort-sc)
-Motivation
+- Class Materials - None
+- [Class Slides](https://slides.com/leonnoel/100devs-networking-night-cohort-sc)
 
-### Homework Due
+### Homework Due - Class 17
 
-- First
-- Second
-- Third
+- None
 
-### Class Homework
+### Class 17 Homework
 
-- First
-- Second
-- Third
+- Keep working on Portfolio, proposal/contract, and previous weeks homework
 
 </details>
 
@@ -401,32 +400,30 @@ Motivation
 
 ## Project Night
 
-[![100 Dev - Class 027](https://img.youtube.com/vi/b5rjEW-_6po/maxresdefault.jpg)](https://www.youtube.com/watch?v=b5rjEW-_6po "100 Dev - Class 027")
+[![100 Dev - Class 018](https://img.youtube.com/vi/b5rjEW-_6po/maxresdefault.jpg)](https://www.youtube.com/watch?v=b5rjEW-_6po "100 Dev - Class 018")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-project-night-cohort-2)
-Motivation
+- Class Materials - None
+- [Class Slides](https://slides.com/leonnoel/100devs2-project-night-cohort-2)
 
 ### Homework Due
 
-- First
-- Second
-- Third
+- None
 
 ### Class Homework
 
-- First
-- Second
-- Third
+- Keep working on Portfolio, proposal/contract, and previous weeks homework
 
 </details>
-<details><summary>Review</summary>
 
-## Review
+<details><summary>Super Review</summary>
 
-[![100 Dev - Review](https://img.youtube.com/vi/AkXLGS57MS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=AkXLGS57MS4 "100 Dev - Review")
+## Super Review
 
-[REVIEW SLIDES](https://slides.com/leonnoel/html-css-js-review-100devs2)
+[![100 Dev - Super Review](https://img.youtube.com/vi/AkXLGS57MS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=AkXLGS57MS4 "100 Dev - Super Review")
+
+[Super Review Materials](https://cdn.discordapp.com/attachments/738891289071714388/952598041490255872/super-review.zip)
+[Super Review Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/952758319850852373/super-review-solutions.zip)
+[Super Review Slides](https://slides.com/leonnoel/html-css-js-review-100devs2)
 
 </details>
 
@@ -436,21 +433,25 @@ Motivation
 
 [![100 Dev - Class 19](https://img.youtube.com/vi/YUQUGtUbwMY/maxresdefault.jpg)](https://www.youtube.com/watch?v=YUQUGtUbwMY "100 Dev - Class 019")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-javascript-arrays)
-Motivation
+- [Class 19 Materials](https://cdn.discordapp.com/attachments/738891289071714388/953405017157693520/class19-materials.zip)
+- [Class 19 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/953477287658008647/class19-solutions.zip)
+- [Class 19 Slides](https://slides.com/leonnoel/100devs2-javascript-arrays)
+- [Motivation](http://mwkworks.com/desiderata.html)
 
-### Homework Due
+### Homework Due - Class 19
 
-- First
-- Second
-- Third
+Place your drafts in shared google doc and your javascript tasks in a [CodePen](https://codepen.io) and submit the urls here:
 
-### Class Homework
+- [Submit Form Here](https://forms.gle/PLuuSi7aHeL7wbMQ9)
 
-- First
-- Second
-- Third
+### Class 19 Homework
+
+- Read: [TheJSWay - Chapter 7](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
+- Read: [JavaScript - Array Methods](https://javascript.info/array-methods)
+- Read: [TheJSWay - Chapter 6](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)
+- Read: [Eloquent JavaScript - Chapter 4](https://eloquentjavascript.net/04_data.html)
+- Do: [CodeWars](https://codewars.com/) Minimum of 1 every day - 8 Kyu Fundamentals Track (20 mins - then look at solution)
+- Do: [JavaScript30](https://javascript30.com/) Day 04 Array Cardio (Super Hard, do it on discord together)
 
 </details>
 
@@ -460,21 +461,18 @@ Motivation
 
 [![100 Dev - Class 020](https://img.youtube.com/vi/cL0qP6kM_1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=cL0qP6kM_1U "100 Dev - Class 020")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-array-review-javascript-objects)
-Motivation
+- [Class 20 Materials](https://cdn.discordapp.com/attachments/738891289071714388/954130228400238692/class20-materials_.zip)
+- [Class 20 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/954193960111308810/class20-solutions.zip)
+- [Class 20 Slides](https://slides.com/leonnoel/100devs2-array-review-javascript-objects)
+- [Motivation](https://poets.org/poem/dreams)
 
-### Homework Due
+### Homework Due - Class 20
 
-- First
-- Second
-- Third
+- None
 
-### Class Homework
+### Class 20 Homework
 
-- First
-- Second
-- Third
+- Work on previous weeks homework assignments.
 
 </details>
 
@@ -484,21 +482,22 @@ Motivation
 
 [![100 Dev - Class 021](https://img.youtube.com/vi/75TQEQ6wxAE/maxresdefault.jpg)](https://www.youtube.com/watch?v=75TQEQ6wxAE "100 Dev - Class 021")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-javascript-objects)
+- [Class 21 Materials](https://cdn.discordapp.com/attachments/738891289071714388/955941684322107442/class21-materials.zip)
+- [Class 21 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/956007209295315015/class21-solutions.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs2-javascript-objects)
 Motivation
 
-### Homework Due
+### Homework Due - Class 21
 
-- First
-- Second
-- Third
+- None
 
-### Class Homework
+### Class 21 Homework
 
-- First
-- Second
-- Third
+- Read: [JavaScript - Array Methods](https://javascript.info/array-methods)
+- Do: [JavaScript30](https://javascript30.com/) Day 04 Array Cardio (Do it Again!)
+- Read: [JavaScript - Objects](https://javascript.info/object)
+- Do: All the Tasks :point_up:
+- Do: [JavaScript30](https://javascript30.com/) Day 04 Array Cardio (Super Hard, do it on discord together)
 
 </details>
 
@@ -508,21 +507,27 @@ Motivation
 
 [![100 Dev - Class 022](https://img.youtube.com/vi/LTda62-jyoM/maxresdefault.jpg)](https://www.youtube.com/watch?v=LTda62-jyoM "100 Dev - Class 022")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-more-javascript-objects)
-Motivation
+- [Class 22 Materials](https://cdn.discordapp.com/attachments/738891289071714388/956666816598532116/class22-materials.zip)
+- [Class 22 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/956733435978858496/class22-solutions.zip)
+- [Class 22 Slides](https://slides.com/leonnoel/100devs2-more-javascript-objects)
 
-### Homework Due
+### Homework Due - Class 22
 
-- First
-- Second
-- Third
+Submit your Tasks code here:
 
-### Class Homework
+- [Submit Form Here](https://forms.gle/jK41o5QGNdzY8rPk9)
 
-- First
-- Second
-- Third
+### Class 22 Homework
+
+- Watch/Do: [Mosh: Object-Oriented Programming](https://youtu.be/PFmuCDHHpwk)
+- Watch: [LearnCode: GitHub Tutorial](https://youtu.be/0fKg7e37bQE%E2%80%8B)
+- Do: [Intro to GitHub](https://aka.ms/learnwithleon)
+
+### Push Tasks (Optional)
+
+- Read/Do: [JavaScript - Objects (Entire Chapter)](https://javascript.info/)
+- Read: [Pillars of OOP](https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219)
+- Complete and Submit this Project: [100 Devs Calculator](https://github.com/leonnoel/100devs-calculator)
 
 </details>
 
@@ -532,21 +537,18 @@ Motivation
 
 [![100 Dev - Class 023](https://img.youtube.com/vi/qnmKELgyXc0/maxresdefault.jpg)](https://www.youtube.com/watch?v=qnmKELgyXc0 "100 Dev - Class 023")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-javascript-objects-fun-time)
-Motivation
+- [Class 23 Materials](https://cdn.discordapp.com/attachments/738891289071714388/958478507720196116/class23-materials.zip)
+- [Class 23 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/958545682946490398/class23-solutions.zip)
+- [Class 23 Slides](https://slides.com/leonnoel/100devs2-javascript-objects-fun-time)
+- [Motivation](https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest)
 
-### Homework Due
+### Homework Due - Class 23
 
-- First
-- Second
-- Third
+- None
 
-### Class Homework
+### Class 23 Homework
 
-- First
-- Second
-- Third
+- Continue working on existing homework, CodeWars, and projects.
 
 </details>
 
@@ -556,21 +558,22 @@ Motivation
 
 [![100 Dev - Class 024](https://img.youtube.com/vi/UpsonO_vBNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=UpsonO_vBNk "100 Dev - Class 024")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-intro-to-git-and-github)
-Motivation
+- Class 24 Materials - None
+- [Class Slides](https://slides.com/leonnoel/100devs2-intro-to-git-and-github)
 
-### Homework Due
+### Do Before Class
 
-- First
-- Second
-- Third
+- [Install Git](https://github.com/git-guides/install-git)
+- [OdinProject - Setup Git](https://www.theodinproject.com/courses/foundations/lessons/setting-up-git)
+- [Setup WSL](https://ubuntu.com/wsl) if you have a Windows PC.
 
-### Class Homework
+### Homework Due - Class 24
 
-- First
-- Second
-- Third
+- None
+
+### Class 24 Homework
+
+- Continue working on existing homework, CodeWars, and projects.
 
 </details>
 
@@ -580,21 +583,16 @@ Motivation
 
 [![100 Dev - Class 025](https://img.youtube.com/vi/ZlB4BockYNQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZlB4BockYNQ "100 Dev - Class 025")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-resume-review)
-Motivation
+- Class Materials - None
+- [Class Slides](https://slides.com/leonnoel/100devs2-resume-review)
 
-### Homework Due
+### Homework Due - Class 25
 
-- First
-- Second
-- Third
+- None
 
-### Class Homework
+### Class 25 Homework
 
-- First
-- Second
-- Third
+- Continue working on existing homework, CodeWars, and projects.
 
 </details>
 
@@ -604,21 +602,27 @@ Motivation
 
 [![100 Dev - Class 026](https://img.youtube.com/vi/WcSTeotmJtw/maxresdefault.jpg)](https://www.youtube.com/watch?v=WcSTeotmJtw "100 Dev - Class 026")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs-javascript-api-fun)
-Motivation
+- [Class 26 Materials](https://cdn.discordapp.com/attachments/738891289071714388/961740902357934141/class26-materials.zip)
+- [Class 26 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/961810321884991538/class26-solutions.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs-javascript-api-fun)
 
-### Homework Due
+### Homework Due - Class 26
 
-- First
-- Second
-- Third
+- None
 
-### Class Homework
+### Class 26 Homework
 
-- First
-- Second
-- Third
+- Do: Make the CocktailDB API work with spaces between the names!
+- Do: Find three APIs and build three simple apps using them [Short List](https://github.com/public-apis/public-apis)
+- Do: CodeWars Daily
+- Do: Anki Daily
+
+### Push Goals (Optional)
+
+- Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB
+- Do: Make the NASA API, handle all the data types including video
+- Add an API to your portfolio website
+- Do: A 7 Kyu Codewars
 
 </details>
 
@@ -628,21 +632,18 @@ Motivation
 
 [![100 Dev - Class 027](https://img.youtube.com/vi/b5rjEW-_6po/maxresdefault.jpg)](https://www.youtube.com/watch?v=b5rjEW-_6po "100 Dev - Class 027")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-more-api-review)
+- [Class 27 Materials](https://cdn.discordapp.com/attachments/738891289071714388/963551906217746482/class27-materials.zip)
+- [Class 27 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/963620968490737684/class27-solutions.zip)
+- [Class Slides](https://slides.com/leonnoel/100devs2-more-api-review)
 Motivation
 
-### Homework Due
+### Homework Due - Class 27
 
-- First
-- Second
-- Third
+- None
 
-### Class Homework
+### Class 27 Homework
 
-- First
-- Second
-- Third
+- Work on tasks from previous weeks homework or any unfinished homework.
 
 </details>
 
@@ -652,21 +653,22 @@ Motivation
 
 [![100 Dev - Class 028](https://img.youtube.com/vi/G7XJRLaq2Cw/maxresdefault.jpg)](https://www.youtube.com/watch?v=G7XJRLaq2Cw "100 Dev - Class 028")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-another-api-review)
+[Class 28 Materials](https://cdn.discordapp.com/attachments/738891289071714388/964277087705923604/class28-materials.zip)
+[Class 28 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/964343138909044817/class28-solutions.zip)
+[Class 28 Slides](https://slides.com/leonnoel/100devs2-another-api-review)
 Motivation
 
-### Homework Due
+### Homework Due - Class 28
 
-- First
-- Second
-- Third
+Submit API Work:
 
-### Class Homework
+- [Submit Form](https://forms.gle/mSR6TGf7F6iN54Wy5)
 
-- First
-- Second
-- Third
+### Class 28 Homework
+
+- Do: Catch Up
+- Do: [CodeCademy: Intro JS Course](https://www.codecademy.com/learn/introduction-to-javascript) - (30 Hours)
+- Do: [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
 
 </details>
 
@@ -676,21 +678,28 @@ Motivation
 
 [![100 Dev - Class 029](https://img.youtube.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v= "100 Dev - Class 029")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-javascript-review-back-from-break)
-Motivation
+- [Class 29 Materials](https://cdn.discordapp.com/attachments/738891289071714388/968625532637958174/class29-materials.zip)
+- [Class 29 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/968762297281572924/class29-solutions.zip)
+- [Class 29 Slides](https://slides.com/leonnoel/100devs2-javascript-review-back-from-break)
 
-### Homework Due
+### Homework Due - Class 29
 
-- First
-- Second
-- Third
+- Catch-Up
+- [Intro JS Course](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
 
-### Class Homework
+No Submissions Required
 
-- First
-- Second
-- Third
+### Class 29 Homework
+
+- Work on tasks from previous weeks.
+- Read/Do: [TheJSWay - Chapter 9](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
+- Do: 7 Kyu Codewars
+- Do: Finish [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
+
+### Push Goals
+
+- Read/Do: [Eloquent JavaScript - Chapter 6](https://eloquentjavascript.net/06_object.html)
 
 </details>
 
@@ -700,21 +709,25 @@ Motivation
 
 [![100 Dev - Class 030](https://img.youtube.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v= "100 Dev - Class 030")
 
-Class Materials
-[Class Slides](https://slides.com/leonnoel/100devs2-javascript-oop)
-Motivation
+[Class 30 Materials](https://cdn.discordapp.com/attachments/738891289071714388/969350180937793536/class30-materials.zip)
+[Class 30 Materials (Solutions)](https://cdn.discordapp.com/attachments/738891289071714388/969400680186015855/class30-solutions.zip)
+[Class 30 Slides](https://slides.com/leonnoel/100devs2-javascript-oop)
+[Motivation](https://www.youtube.com/watch?v=_cF377eW0nU)
 
-### Homework Due
+### Homework Due - Class 30
 
-- First
-- Second
-- Third
+- Codewars Daily
 
-### Class Homework
+### Class 30 Homework
 
-- First
-- Second
-- Third
+- Watch/Do: [Mosh: OOP](https://youtu.be/PFmuCDHHpwk)
+- Read/Do: [TheJSWay - Chapter 9](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
+- Do: 7 Kyu Codewars
+- Do: Finish [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
+
+### Push Goals ... Continued
+
+- Read/Do: [Eloquent JavaScript - Chapter 6](https://eloquentjavascript.net/06_object.html)
 
 </details>
 
@@ -733,6 +746,8 @@ Motivation
 - [Many Tamagotchis Were Harmed in the Making of this Presentation](https://youtu.be/c4PkcZScBV8)
 - [Cool Breakdown of some low level code and how a Game Boy actually works](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
 - [Someone really goood at reverse engineering(Scanlime)](https://www.youtube.com/c/scanlime/videos)
+- [How to sign-up for CodeWars by BlawBlawLaw](https://blog.barbaralaw.me/i-want-to-do-codewars-uh-how-do-i-do-that)
+- [How to sort CodeWars for 8 Kyu Fundamentals](https://www.loom.com/share/015bac0dbeb343409bcd27550fa2963a)
 
 </details>
 
